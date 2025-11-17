@@ -1,0 +1,3 @@
+
+## Chapter 1: Deep-dive into WriteAheadLoggingDeepDive
+Architectural analysis and case study notes.
