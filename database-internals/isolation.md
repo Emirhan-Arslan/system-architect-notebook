@@ -7,3 +7,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 3: Deep-dive into TransactionIsolationLevels
 Architectural analysis and case study notes.
+
+## Chapter 4: Deep-dive into TransactionIsolationLevels
+Architectural analysis and case study notes.
