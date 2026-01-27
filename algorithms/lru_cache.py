@@ -10,3 +10,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 4: Deep-dive into LRUCacheImplementation
 Architectural analysis and case study notes.
+
+## Chapter 5: Deep-dive into LRUCacheImplementation
+Architectural analysis and case study notes.
