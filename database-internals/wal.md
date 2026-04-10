@@ -13,3 +13,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 5: Deep-dive into WriteAheadLoggingDeepDive
 Architectural analysis and case study notes.
+
+## Chapter 6: Deep-dive into WriteAheadLoggingDeepDive
+Architectural analysis and case study notes.
