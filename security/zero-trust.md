@@ -16,3 +16,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 6: Deep-dive into ZeroTrustArchitectureNotes
 Architectural analysis and case study notes.
+
+## Chapter 7: Deep-dive into ZeroTrustArchitectureNotes
+Architectural analysis and case study notes.
