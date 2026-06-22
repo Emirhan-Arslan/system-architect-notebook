@@ -19,3 +19,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 7: Deep-dive into CacheInvalidationStrategies
 Architectural analysis and case study notes.
+
+## Chapter 8: Deep-dive into CacheInvalidationStrategies
+Architectural analysis and case study notes.
