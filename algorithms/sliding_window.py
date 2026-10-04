@@ -28,3 +28,6 @@ Architectural analysis and case study notes.
 
 ## Chapter 10: Deep-dive into SlidingWindowCounter
 Architectural analysis and case study notes.
+
+## Chapter 11: Deep-dive into SlidingWindowCounter
+Architectural analysis and case study notes.
